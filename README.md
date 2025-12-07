@@ -22,14 +22,22 @@ Easy to extend and modify
 
 
 ## Technologies Used
-Java
+- **Backend**: Java SprintBoot
+- **Frontend**: HTML5, BootStrap, JavaScript
+- **Build Tool**: Maven
+- **Server**: Apache Tomcat
+- **Library**: JSoup (or your chosen scraping library)
 
-Maven
+## Installation
 
-JSoup (or your chosen scraping library)
+1. Clone the repository:
+```bash
+git clone https://github.com/SEsaifulaziz/WebScraping.git
 
+```
 ## License
 This project is open-source.
+
 
 ## Author
 Saifulaziz
