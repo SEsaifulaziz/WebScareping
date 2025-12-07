@@ -1,11 +1,18 @@
 ## WebScareping/
 ├── pom.xml                 # Maven dependencies and project configuration
+
 ├── src/                    # Java source code (main scraping logic)
+
 │   ├── main/java           # Application code
+
 │   └── test/java           # Test files (if any)
+
 ├── .gitignore
+
 ├── .gitattributes
+
 ├── mvnw / mvnw.cmd         # Maven wrapper files
+
 └── .mvn/                   # Maven wrapper directory
 
 
